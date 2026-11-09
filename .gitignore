@@ -1,0 +1,9 @@
+__pycache__/
+.venv
+checkpoints/
+logs/
+data/
+**/samples*
+*Zone*
+
+!task2_vlm_grounding/data/
